@@ -1,2 +1,2 @@
 #!/bin/bash
-export WATER | export STIR | echo $((WATER + STIR))
+ echo $((WATER + STIR))
